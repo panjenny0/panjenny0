@@ -12,7 +12,7 @@ I'm a computer science & business student at UBC who has a unique combination of
 
 :black_nib: **Ask me about:** Podcast recommendations, my calligraphy side hustle, dogspotting, and STONKS
 
-:email: **How to reach me:** panjenny0@gmail.com
+:email: **How to reach me:** [LinkedIn](https://www.linkedin.com/in/pan-jenny/), [Email](panjenny0@gmail.com)
 
 
 <!--
