@@ -1,9 +1,21 @@
-### Hi there 👋
+### Hi! I'm Jenny 👋
+
+<img src="https://user-images.githubusercontent.com/38872354/96933385-2b975800-1475-11eb-95ee-4667db25aa41.jpg" align="left" width="250" />
+
+I'm a computer science & business student at UBC who has a unique combination of skill sets in front-end, back-end, and UX/UI :nerd_face:
+
+:hatching_chick: **What I’m working on:** I'm currently interning at Tesla to redesign and build an energy billing system, working on a mix of design, front-end, and back-end. I also work on internal tools at [nwplus](https://github.com/nwplus)!
+
+:blue_book: **What I'm currently reading:** Atomic Habits, Cracking the Coding Interview (of course!)
+
+:black_nib: **Ask me about:** Podcast recommendations, my calligraphy side hustle, dogspotting, and STONKS
+
+:email: **How to reach me:** panjenny0@gmail.com
+
 
 <!--
 **panjenny0/panjenny0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +23,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
