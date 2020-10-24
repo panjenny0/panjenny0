@@ -6,7 +6,7 @@
 
 I'm a computer science & business student at UBC who has a unique combination of skill sets in front-end/web, back-end, and UX/UI. :nerd_face: I love learning new things and meeting new people!
 
-:hatching_chick: **What I’m working on:** I'm currently interning at Tesla to redesign and build an energy billing system, working on a mix of design, front-end, and back-end. I also work on internal tools at [nwPlus](https://github.com/nwplus)!
+:hatching_chick: **What I’m working on:** I'm currently interning at [Tesla](https://www.tesla.com/energy) to redesign and build an energy billing system, working on a mix of design, front-end, and back-end. I also work on internal tools at [nwPlus](https://github.com/nwplus)!
 
 :blue_book: **What I'm currently reading:** Atomic Habits, Cracking the Coding Interview (of course!)
 
