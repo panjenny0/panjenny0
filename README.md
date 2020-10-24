@@ -10,7 +10,7 @@ I'm a computer science & business student at UBC who has a unique combination of
 
 :blue_book: **What I'm currently reading:** Atomic Habits, Cracking the Coding Interview (of course!)
 
-:black_nib: **Ask me about:** Podcast recommendations, my calligraphy side hustle, dogspotting, and STONKS
+:black_nib: **Ask me about:** the Daily UI design challenge, podcast recommendations, my calligraphy side hustle, dogspotting, and STONKS
 
 :email: **How to reach me:** [LinkedIn](https://www.linkedin.com/in/pan-jenny/), [Email](panjenny0@gmail.com)
 
