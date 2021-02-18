@@ -2,15 +2,13 @@
 
 (she/her/hers)
 
-<img src="https://user-images.githubusercontent.com/38872354/96933385-2b975800-1475-11eb-95ee-4667db25aa41.jpg" align="left" width="250" />
+<img src="https://user-images.githubusercontent.com/38872354/96933385-2b975800-1475-11eb-95ee-4667db25aa41.jpg" align="left" width="200" />
 
-I'm a computer science & business student at UBC who has a unique combination of skill sets in front-end/web, back-end, and UX/UI. :nerd_face: I love learning new things and meeting new people!
+I'm a computer science & business student at UBC who has a unique combination of skill sets in front-end/web, back-end, and design. :nerd_face: I love learning new things and meeting new people!
 
-:hatching_chick: **What I’m working on:** I'm currently interning at [Tesla](https://www.tesla.com/energy) to redesign and build an energy billing system, working on a mix of design, front-end, and back-end. I also work on internal tools at [nwPlus](https://github.com/nwplus)!
+:hatching_chick: **What I’m working on:** I'm currently interning at [Tesla](https://www.tesla.com/energy) to redesign and build an energy billing system, working with tools/technologies such as JavaScript, React and Redux for the front-end, Python and Django for the back-end, and Sketch for design. I also work on internal tools at [nwPlus](https://github.com/nwplus)!
 
-:blue_book: **What I'm currently reading:** Atomic Habits, Cracking the Coding Interview (of course!)
-
-:black_nib: **Ask me about:** the Daily UI design challenge, podcast recommendations, my calligraphy side hustle, dogspotting, and STONKS
+:black_nib: **Ask me about:** podcast recommendations, my calligraphy side hustle, dogspotting, and the Daily UI design challenge
 
 :email: **How to reach me:** [LinkedIn](https://www.linkedin.com/in/pan-jenny/), [Email](panjenny0@gmail.com)
 
