@@ -1,14 +1,16 @@
 ### Hi! I'm Jenny 👋
 
-(she/her/hers)
+_(she/her/hers)_
 
-<img src="https://user-images.githubusercontent.com/38872354/96933385-2b975800-1475-11eb-95ee-4667db25aa41.jpg" align="left" width="200" />
+<img src="https://user-images.githubusercontent.com/38872354/96933385-2b975800-1475-11eb-95ee-4667db25aa41.jpg" align="left" width="260" />
 
-I'm a computer science & business student at UBC who has a unique combination of skill sets in front-end/web, back-end, and design. :nerd_face: I love learning new things and meeting new people!
+I'm a computer science & business student at UBC who has a unique combination of skill sets in frontend/web, backend, and design. I love combining strong design aesthetics with maintainable, scalable, and well-architected code :love_letter:
 
-:hatching_chick: **What I’m working on:** I recently wrapped up my internship at Coinbase, where I worked on Coinbase's new Prime product offering for institutional investors (Technologies: React, TypeScript, Golang, Ruby). I'm currently also working as a developer at [nwPlus](https://github.com/nwplus), building websites and tooling for Western Canada's Largest Hackathon Organization!
+:baby_chick: **What I’ve been up to:** I recently wrapped up my internship at Coinbase, where I worked on Coinbase's new Prime product offering for institutional investors (_Technologies_: React, TypeScript, Golang, Ruby).
 
-:black_nib: **Ask me about:** podcast recommendations, my calligraphy side hustle, dogspotting, and the Daily UI design challenge
+:penguin: **What I’m working on:** I'm currently also working as a developer at [nwPlus](https://github.com/nwplus), building websites and tooling for Western Canada's Largest Hackathon Organization!
+
+:bird: **Ask me about:** podcast recommendations, my calligraphy side hustle, dogspotting, and the Daily UI design challenge
 
 :email: **How to reach me:** [LinkedIn](https://www.linkedin.com/in/pan-jenny/), [Email](panjenny0@gmail.com)
 
