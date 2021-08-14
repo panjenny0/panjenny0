@@ -2,9 +2,9 @@
 
 _(she/her/hers)_
 
-<img src="https://user-images.githubusercontent.com/38872354/96933385-2b975800-1475-11eb-95ee-4667db25aa41.jpg" align="left" width="260" />
-
 I'm a computer science & business student at UBC who has a unique combination of skill sets in frontend/web, backend, and design. I love combining strong design aesthetics with maintainable, scalable, and well-architected code :love_letter:
+
+<img src="https://user-images.githubusercontent.com/38872354/96933385-2b975800-1475-11eb-95ee-4667db25aa41.jpg" align="left" width="200" />
 
 :baby_chick: **What I’ve been up to:** I recently wrapped up my internship at Coinbase, where I worked on Coinbase's new Prime product offering for institutional investors (_Technologies_: React, TypeScript, Golang, Ruby).
 
