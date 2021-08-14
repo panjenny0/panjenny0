@@ -6,7 +6,7 @@
 
 I'm a computer science & business student at UBC who has a unique combination of skill sets in front-end/web, back-end, and design. :nerd_face: I love learning new things and meeting new people!
 
-:hatching_chick: **What I’m working on:** I'm currently interning at [Tesla](https://www.tesla.com/energy) (part-time) to redesign and build an energy billing system, working with tools/technologies such as JavaScript, React and Redux for the front-end, Python and Django for the back-end, and Sketch for design. I also work on internal tools at [nwPlus](https://github.com/nwplus)!
+:hatching_chick: **What I’m working on:** I recently wrapped up my internship at Coinbase, where I worked on Coinbase's new Prime product offering for institutional investors (Technologies: React, TypeScript, Golang, Ruby). I'm currently also working as a developer at [nwPlus](https://github.com/nwplus), building websites and tooling for Western Canada's Largest Hackathon Organization!
 
 :black_nib: **Ask me about:** podcast recommendations, my calligraphy side hustle, dogspotting, and the Daily UI design challenge
 
