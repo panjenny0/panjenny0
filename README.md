@@ -8,7 +8,7 @@ I'm a computer science & business student at UBC (grad May 2022) who has a uniqu
 
 :baby_chick: **What I’ve been up to:** I recently wrapped up my internship at Coinbase, where I worked on notifications & core UX for Coinbase's new Prime product offering for institutional investors (_Technologies_: React, TypeScript, Golang, Ruby).
 
-:penguin: **What I’m working on:** I'm currently also working as a developer at [nwPlus](https://github.com/nwplus), building websites and tooling for Western Canada's Largest Hackathon Organization!
+:penguin: **What I’m working on:** I'm currently working as a developer at [nwPlus](https://github.com/nwplus), building websites and tooling for Western Canada's Largest Hackathon Organization!
 
 :bird: **Ask me about:** podcast recommendations, my calligraphy side hustle, dogspotting, and the Daily UI design challenge
 
